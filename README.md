@@ -1,8 +1,15 @@
-### My name is Kerri McMahon!
+### Hello! My name is Kerri McMahon.
 ### I am a Software Engineer who specializes in backend systems.
 
+I've had a pretty interesting path so far.
+
+I started out in the industry conducting research at Brookhaven National Laboratory concerning fault tolerance in the polyhedral compilation space. This research was selected for presentation at the MIT/IEEE URTC in 2019, and also helped qualify me for ACM/UPE Scholar of the Year award. After my undergraduate studies, I was enrolled to continue this research as a PhD candidate at the University of Oklahoma.
+
+While I has a lot of passion for this work, I realized i was truly happy as an individual contributer within the industry. I pivoted and took my first software engineering role at Intelligent Product Solutions, where I gained experience in a variety of spaces.
 <!--
 **kmcmahon4/kmcmahon4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://dl.acm.org/doi/10.1145/3362037
 
 Here are some ideas to get you started:
 
