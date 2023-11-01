@@ -1,4 +1,5 @@
-### My name is Kerri McMahon, and I am a Software Engineer with a specialty in backend systems.
+### My name is Kerri McMahon!
+### I am a Software Engineer who specializes in backend systems.
 
 <!--
 **kmcmahon4/kmcmahon4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
