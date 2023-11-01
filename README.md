@@ -1,4 +1,4 @@
-### Hello! My name is Kerri McMahon.
+### Hello! My name is Kerri McMahon. Here's a more in depth summary of my path so far if you are interested in hearing more about me and my background!
 I am a Software Engineer who specializes in backend systems with just over 3 years of experience.
 Here's a more in depth summary of my path so far if you are interested in hearing more about me and my background!
 
