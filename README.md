@@ -5,7 +5,7 @@ I am a Software Engineer who specializes in backend systems with just over 3 yea
 
 I started out my career conducting research at Brookhaven National Laboratory concerning fault tolerance in the polyhedral compilation space. This research was selected for presentation at the MIT/IEEE URTC in 2019, and also helped qualify me for the [ACM/UPE Scholar of the Year award.](https://dl.acm.org/doi/10.1145/3362037) After my undergraduate studies, I was enrolled to continue this research as a PhD candidate at the University of Oklahoma.
 
-While I had a lot of passion for this work, I realized i was truly happy as an individual contributer within the industry. I pivoted and took my first software engineering role at Intelligent Product Solutions, where I gained experience in a variety of spaces like backend engineering, IoT microcontroller development, mobile app development, and more. 
+While I had a lot of passion for this work, I realized I was truly happy as an individual contributer within the industry. I pivoted and took my first software engineering role at Intelligent Product Solutions, where I gained experience in a variety of spaces like backend engineering, IoT microcontroller development, mobile app development, and more. 
 
 The most notable project I worked on was a project called [Spiriocast](https://www.steinway.com/spirio/spirio-r/spiriocast), where I contributed to the various live video streaming services that powered the product. I worked a lot with low level video processing (HLS, MKV, Kinesis Video Streams,), microservices architrcure, message queues (ZeroMQ), and API development. I worked with an incredibly talented team to bring that product to official release.
 
