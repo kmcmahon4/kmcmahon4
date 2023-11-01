@@ -1,6 +1,6 @@
 ### Hello! My name is Kerri McMahon.
-### I am a Software Engineer who specializes in backend systems.
-### Here's a brief summary of my path so far if you are interested in hearing more about me and my background!
+I am a Software Engineer who specializes in backend systems.
+Here's a brief summary of my path so far if you are interested in hearing more about me and my background!
 
 I started out my career conducting research at Brookhaven National Laboratory concerning fault tolerance in the polyhedral compilation space. This research was selected for presentation at the MIT/IEEE URTC in 2019, and also helped qualify me for the [ACM/UPE Scholar of the Year award.](https://dl.acm.org/doi/10.1145/3362037) After my undergraduate studies, I was enrolled to continue this research as a PhD candidate at the University of Oklahoma.
 
@@ -12,7 +12,7 @@ Currently, I am a backend engineer in the gaming industry, where I contribute to
 
 Thanks for reading!
 
-- 🌱 I’m currently learning:
-      1. Distributed Systems - I'm currently reading [Distributed Systems by Maarten Van Steen](https://www.amazon.com/dp/9081540637?psc=1&ref=ppx_yo2ov_dt_b_product_details) and [Designing Data-Intensive Applications by Martin Kleppmann!](https://www.amazon.com/dp/1449373321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-      2. GoLang - I am currently using Java and Python on the job but love Go and have used it in the past. I am trying to keep my skills sharp as you can see below!
+### 🌱 I’m currently learning:
+- 1. Distributed Systems - I'm currently reading [Distributed Systems by Maarten Van Steen](https://www.amazon.com/dp/9081540637?psc=1&ref=ppx_yo2ov_dt_b_product_details) and [Designing Data-Intensive Applications by Martin Kleppmann!](https://www.amazon.com/dp/1449373321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- GoLang - I am currently using Java and Python on the job but love Go and have used it in the past. I am trying to keep my skills sharp as you can see below!
 
