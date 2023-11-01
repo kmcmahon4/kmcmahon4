@@ -13,6 +13,6 @@ Currently, I am a backend engineer in the gaming industry, where I contribute to
 Thanks for reading!
 
 ### 🌱 I’m currently learning:
-- 1. Distributed Systems - I'm currently reading [Distributed Systems by Maarten Van Steen](https://www.amazon.com/dp/9081540637?psc=1&ref=ppx_yo2ov_dt_b_product_details) and [Designing Data-Intensive Applications by Martin Kleppmann!](https://www.amazon.com/dp/1449373321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- Distributed Systems - I'm currently reading [Distributed Systems by Maarten Van Steen](https://www.amazon.com/dp/9081540637?psc=1&ref=ppx_yo2ov_dt_b_product_details) and [Designing Data-Intensive Applications by Martin Kleppmann!](https://www.amazon.com/dp/1449373321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - GoLang - I am currently using Java and Python on the job but love Go and have used it in the past. I am trying to keep my skills sharp as you can see below!
 
