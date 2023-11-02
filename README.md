@@ -5,7 +5,7 @@
 - Go - I am currently using Java and Python on the job but love Go and have used it in the past. I am trying to keep my skills sharp as you can see below!
 
 ### Here's a more in depth summary of my path so far if you are interested in hearing more about me and my background!
-I am a software engineer who specializes in backend systems with just over 3 years of experience.
+I am a software engineer who specializes in backend systems with just over 3 years of industry experience.
 
 I started out my career conducting research at Brookhaven National Laboratory concerning fault tolerance in the polyhedral compilation space. This research was selected for presentation at the MIT/IEEE URTC in 2019, and also helped qualify me for the [ACM/UPE Scholar of the Year award.](https://dl.acm.org/doi/10.1145/3362037) After my undergraduate studies, I was enrolled to continue this research as a PhD candidate at the University of Oklahoma.
 
