@@ -11,9 +11,8 @@ I started out my career conducting research at Brookhaven National Laboratory co
 
 While I had a lot of passion for this work, I realized I was truly happy as an individual contributer within the industry. I pivoted and took my first software engineering role at Intelligent Product Solutions, where I gained experience in a variety of spaces like backend engineering, IoT microcontroller development, mobile app development, and more. 
 
-The most notable project I worked on was a project called [Spiriocast](https://www.steinway.com/spirio/spirio-r/spiriocast), where I contributed to the various live video streaming services that powered the product. I worked a lot with low level video processing (HLS, MKV, Kinesis Video Streams), microservices architrcure, message queues (ZeroMQ), and API development. I worked with an incredibly talented team to bring that product to official release.
+The most notable project I worked on was a project called [Spiriocast](https://www.steinway.com/spirio/spirio-r/spiriocast), where I contributed to the various live video streaming services that powered the product. I worked a lot with low level video processing (HLS, MKV, Kinesis Video Streams), microservices architecture, message queues (ZeroMQ), and API development. I worked with an incredibly talented team to bring that product to official release.
 
 Currently, I am a backend engineer in the video gaming industry, where I contribute to distributed online multiplayer systems for over 180 million players around the world. I've been a video game lover my whole life, and to be able to contribute to products that have had such a concrete spot in my life has been nothing but fun and an honor! I get to bring my passions to my work every day, which is a privilege. I also get to work really closely with distributed systems, which are incredibly interesting to me.
 
 Thanks for reading!
-
